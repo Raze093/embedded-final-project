@@ -1,0 +1,21 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "c:\\Espressif\\frameworks\\esp-idf-v5.4",
+    "idf.pythonInstallPath": "C:\\Users\\Hafiz\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-builtin.cfg"
+    ],
+    "idf.portWin": "COM4",
+    "idf.toolsPathWin": "C:\\Users\\Hafiz\\.espressif",
+    "makefile.configureOnOpen": true,
+    "idf.flashType": "UART",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32c3"
+    },
+    "files.associations": {
+        "esp_rmaker_standard_params.h": "c",
+        "i2c_master.h": "c",
+        "esp_system.h": "c",
+        "app_network.h": "c"
+    }
+}

@@ -1,0 +1,11 @@
+CMake Error at C:/Espressif/frameworks/esp-idf-v5.4/tools/cmake/component.cmake:490 (add_library):
+  add_library cannot create target "__idf_main" because another target with
+  the same name already exists.  The existing target is a static library
+  created in source directory "C:/Users/Hafiz/project-simplified/main".  See
+  documentation for policy CMP0002 for more details.
+Call Stack (most recent call first):
+  main/CMakeLists.txt:4 (idf_component_register)
+
+
+ESP Insights Project commit: 6e3bca5
+ESP RainMaker Project commit: f5fbf58
